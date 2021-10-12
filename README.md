@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehtab, a curious teen
-- 👀 I’m interested in **t**echnology & **f**inance.
+- 👀 I’m interested in **t**echnology, **f**inance, **s**ports, **a**stronomy and **w**orld history! 
 - :snake: Fascinated by AI and my curiosity has led me to master **Machine learning**.
 - :anchor: I can proficiently code in **python** and have created plenty of amazing projects.
 - 🌱 I’m currently refining my **java** development skills.
