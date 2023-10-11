@@ -3,20 +3,20 @@
 ![Innovator Badge](https://img.shields.io/badge/Innovator-%E2%9C%A8-green)
 ![Engineering Enthusiast Badge](https://img.shields.io/badge/Engineering%20Enthusiast-%E2%9C%A8-blue)
 
-I'm a passionate Electronics and Communication Engineering student with a burning curiosity for Embedded Systems, VLSI, and Robotics. Currently honing my skills in both hardware and AI/ML with a minor in Artificial Intelligence & Machine Learning.
+I'm a passionate Electronics and Communication Engineering student with a burning curiosity for Embedded Systems and Semiconductor R&D. Currently honing my skills in both hardware and AI/ML.
 
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing B. Tech in ECE with a minor in AI/ML
-- 💡 Innovator, Leader, and Prototyping Consultant
-- 🛠️ Expertise in Embedded Systems and Robotics
+- 💡 Innovator, Leader, and Engineer
+- 🛠️ Expertise in Embedded Systems
 - 🚀 Winner of BUILD Program by IIT-H, with the revolutionary project, [RoboVista](https://link_to_project)
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Python, Verilog
+- **Languages:** C, C++, Python, Java, Verilog, VHDL
 - **Tools:** MATLAB, Altium, Quartus, TensorFlow
-- **Frameworks:** [List any relevant frameworks/libraries]
+- **Frameworks:** BeautifulSoup, Selenium
 
 ## 🚀 Current Projects
 
@@ -28,8 +28,7 @@ My eyes are set on becoming a pioneer in VLSI design and semiconductor chip R&D.
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your_profile/)
-- [Twitter](https://twitter.com/your_handle)
-- [Personal Website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/mehtab-shaik-5410b41b6/)
+- [Twitter](https://twitter.com/The_MS10)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything tech-related! 🚀
